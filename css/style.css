@@ -250,6 +250,9 @@ img {
   margin: auto;
   padding: 35px 0;
 }
+.qna p{
+  color: rgb(87, 87, 87);
+}
 
 @media only screen and (max-width: 992px) {
   #posts {
