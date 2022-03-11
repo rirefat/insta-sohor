@@ -245,6 +245,12 @@ img {
   display: none;
 }
 
+.qna{
+  width: 85%;
+  margin: auto;
+  padding: 35px 0;
+}
+
 @media only screen and (max-width: 992px) {
   #posts {
     grid-template-columns: repeat(2, 1fr);
